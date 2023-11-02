@@ -1,7 +1,7 @@
 ### Oi, eu sou o Breno! 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando HTML/CSS
+- 🌱 Estou estudando React Native
 - 📫 Fale comigo pelo discord: mbreno-op
 - 😄 Pronomes: ele/dele
 ##
